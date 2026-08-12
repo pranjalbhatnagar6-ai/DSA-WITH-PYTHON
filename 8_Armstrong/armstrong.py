@@ -15,5 +15,5 @@ armstrong()
 if total == n:
     print("No is Armstrong")
 else:
-    print("No. is not armstrong")
+    print("No. is not Armstrong")
 
